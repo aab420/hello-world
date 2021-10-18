@@ -1,2 +1,2 @@
-# hollo-world
+# hello-world
 Practice makes perfect!
